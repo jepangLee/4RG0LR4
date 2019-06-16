@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+	int al[4], bl[4], i, j,r, anum, bnum, a, b;
 	scanf("%d", &r);
 	for (j = 1;j <= r;j++)
 	{
